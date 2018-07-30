@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,deepmerge",
+    "logging_enabled": "false",
+    "name": "deepmergeSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "deepmergeSmokeTest.js"
+}
